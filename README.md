@@ -1,5 +1,5 @@
 # MetalGearSolidQuiz
-An Amazon Alexa quiz for Metal Gear Solid.  This is the code for the __Gamer Quiz for Metal Gear Solid__ in the Amazon Alexa skill store.  The project runs on AWS Lambda.
+An Amazon Alexa quiz for Metal Gear Solid.  This is the code for the __Gamer Quiz for Metal Gear Solid__ currently on the Amazon Alexa skill store.  The project runs on AWS Lambda.
 
 >*Alexa, open metal gear quiz*
 
